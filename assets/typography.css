@@ -1,0 +1,44 @@
+.feedviz_title{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+.progression_heading{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.review_pos{
+    background-color: #3d8f7d;
+    color: white;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-left: 5px;
+    padding: 5px;
+}
+
+.review_neu{
+    background-color: #94653a;
+    color: white;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-left: 5px;
+    padding: 5px;
+}
+
+.review_neg{
+    background-color: #f34c37;
+    color: white;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-left: 5px;
+    padding: 5px;
+}
